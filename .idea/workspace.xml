@@ -34,6 +34,18 @@
     "Application.ArrayEx7.executor": "Run",
     "Application.ArrayEx8.executor": "Run",
     "Application.EnhancedFor1.executor": "Run",
+    "Application.Method1Ref.executor": "Run",
+    "Application.MethodEx1.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
+    "Application.MethodReturn1.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.MethodValue3.executor": "Run",
+    "Application.Overloading1.executor": "Run",
+    "Application.Overloading2.executor": "Run",
+    "Application.Overloading3.executor": "Run",
     "Application.ProductAdminEx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -114,7 +126,7 @@
       <updated>1744811218695</updated>
       <workItem from="1744811220004" duration="374000" />
       <workItem from="1744811734974" duration="111000" />
-      <workItem from="1744811866044" duration="2114000" />
+      <workItem from="1744811866044" duration="6513000" />
     </task>
     <servers />
   </component>
